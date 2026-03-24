@@ -53,7 +53,7 @@
 }
 .top_title{
 font-weight: 700;
-font-size: 32px;
+font-size: clamp(29px, 5vw, 32px);
 line-height: 110.00000000000001%;
 letter-spacing: 0%;
 text-align: center;
@@ -124,6 +124,7 @@ vertical-align: middle;
   margin-left: auto;
   margin-right: auto;
   padding-top: 60px;
+  overflow: hidden;
 }
 button{
   width: 340px;
