@@ -1,9 +1,0 @@
-<svg width="14" height="275" viewBox="0 0 14 275" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="7" cy="7" r="7" fill="white"/>
-<circle cx="7" cy="59" r="7" fill="white"/>
-<circle cx="7" cy="111" r="7" fill="white"/>
-<circle cx="7" cy="163.5" r="7" fill="white"/>
-<circle cx="7" cy="215.5" r="7" fill="white"/>
-<circle cx="7" cy="267.5" r="7" fill="white"/>
-<path d="M7 4.5V267.5" stroke="white" stroke-width="2"/>
-</svg>
